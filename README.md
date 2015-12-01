@@ -1,5 +1,8 @@
 # pyNSEExperiements
-What I intend to do:
+###Getting started resources:
+`pip install nsetools`
+More details (http://www.vsjha.in/nsetools/introduction.html)here .
+###What I intend to do:
 <ol>
 <li>Read the data as step one, find out what it means.</li>
 <li>Create a commandline tool where in people can fetch data with company name in real time.</li>
