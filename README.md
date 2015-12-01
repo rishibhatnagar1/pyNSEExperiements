@@ -1,7 +1,7 @@
 # pyNSEExperiements
 ###Getting started resources:
 `pip install nsetools`
-More details [http://www.vsjha.in/nsetools/introduction.html]here .
+More details[here] (http://www.vsjha.in/nsetools/introduction.html).
 ###What I intend to do:
 <ol>
 <li>Read the data as step one, find out what it means.</li>
